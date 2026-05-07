@@ -23,4 +23,6 @@ This is a reliable transport protocol, called WTP, built on UDP and implemented 
 
 `wSenderOpt` and `wReceiverOpt` are the optimized counterparts to `wSender` and `wReceiver`. They can be invoked with the same respective command-line arguments as above.
 
+The information above was taken from the full spec, written by EECS 489 instructors.
+
 *This project was completed for my network class and is stored in a private repo as per my university's honor code. If you are a involved in recruitment or hiring and would like details on this project, please contact me.*
